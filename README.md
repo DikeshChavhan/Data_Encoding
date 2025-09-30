@@ -2,6 +2,7 @@
 Data Encoding Practical 📊✨
 ---
 Project Overview
+
 This repository contains a Jupyter Notebook (Data Encoding Practical.ipynb) that demonstrates the implementation of essential Data Encoding techniques used in machine learning and data preprocessing. The core goal of these techniques is to convert non-numeric, categorical features into a numerical format that can be processed effectively by statistical models and algorithms. 🤖🔢
 
 Prerequisites 🛠️
